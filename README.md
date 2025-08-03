@@ -45,13 +45,6 @@ Added optimized image placeholders for enhanced visual appeal and performance.
 Focused on clean, modular CSS for maintainability and scalability.
 Tested across browsers (Chrome, Firefox, Safari) for consistency.
 
-Notes
-
-Customize placeholder content in index.html (e.g., project details, client names) to reflect your personal achievements.
-Ensure images are optimized (e.g., using TinyPNG at https://tinypng.com) to maintain fast load times, supporting web optimization.
-For hackathon submission, ensure the site is deployed and accessible via a public URL.
-No JavaScript is used, keeping the project lightweight and focused on HTML/CSS proficiency.
-Update the "Download my CV" link in the Work Experience section with the actual CV file path (e.g., href="files/cv.pdf") after adding it to the project directory.
 
 License
 © 2025 Muwonge Clovis Cleopas Kironde. All rights reserved.
