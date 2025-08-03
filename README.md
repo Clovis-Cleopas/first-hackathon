@@ -11,21 +11,6 @@ Custom Color Scheme: Uses strong red (#e60000) and offwhite (#f5f5f5) for a bold
 Clean Code: Well-structured HTML and CSS with clear comments for readability and maintainability.
 Sections: Includes Home, Skills, Work Experience and Education, Certifications, Clients, and Contact sections, mirroring the original template.
 
-Setup Instructions
-
-Clone or download the repository.
-Create an images folder in the project directory and add the following images:
-hero-image.jpg: Hero section image (e.g., profile or decorative, 600x300 pixels).
-frontend-icon.png, mobile-icon.png, optimization-icon.png, design-icon.png: Skill icons (e.g., 50x50 pixels).
-project1.jpg, project2.jpg, project3.jpg, project4.jpg: Project thumbnails (e.g., 300x200 pixels).
-cert1.jpg, cert2.jpg, cert3.jpg, cert4.jpg: Certification images (e.g., 300x200 pixels, such as certificate screenshots for URIT/Edan training or awards).
-client1.png, client2.png, client3.png, client4.png, client5.png, client6.png: Client logos (e.g., 100x60 pixels).
-
-
-Open index.html and styles.css in VS Code.
-Edit index.html to customize content (e.g., update project details or add specific client names).
-Preview the site using a live server extension in VS Code or open index.html in a browser.
-Deploy to GitHub Pages, Netlify, or Vercel by uploading the files (including the images folder) to a repository or platform.
 
 File Structure
 
